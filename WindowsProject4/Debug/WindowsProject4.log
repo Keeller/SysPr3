@@ -1,0 +1,3 @@
+﻿  WindowsProject4.cpp
+c:\users\kolya\source\repos\windowsproject4\windowsproject4\windowsproject4.cpp(215): warning C4101: rect: неиспользованная локальная переменная
+  WindowsProject4.vcxproj -> C:\Users\kolya\source\repos\WindowsProject4\Debug\WindowsProject4.exe
